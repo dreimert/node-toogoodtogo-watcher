@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "conf": "^11.0.1",
+    "discord.js": "^14.7.1",
     "editor": "^1.0.0",
     "got": "^11.8.2",
     "lodash": "^4.17.21",
